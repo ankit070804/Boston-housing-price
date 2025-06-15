@@ -13,5 +13,3 @@ Modeling: A Linear Regression model is built.
 
 Evaluation Metrics: The model's performance is evaluated using Mean Squared Error (MSE) and the R 
 2 score.
-
-Output/Visualization: Matplotlib is used for visualizing actual vs. predicted prices to assess model accuracy.
