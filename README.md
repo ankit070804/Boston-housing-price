@@ -5,9 +5,13 @@ This project focuses on building a Linear Regression model to predict housing pr
 To achieve this goal, the project utilizes several key elements:
 
 Dataset: The Boston Housing dataset.
-Features: The model uses various features from the dataset to predict housing prices. Data preprocessing, including feature scaling with StandardScaler, is applied.
+
+Features: The model uses various features from the dataset to predict housing prices. Data 
+preprocessing, including feature scaling with StandardScaler, is applied.
+
 Modeling: A Linear Regression model is built.
+
 Evaluation Metrics: The model's performance is evaluated using Mean Squared Error (MSE) and the R 
-2
-  score.
+2 score.
+
 Output/Visualization: Matplotlib is used for visualizing actual vs. predicted prices to assess model accuracy.
